@@ -26,4 +26,4 @@ Please use the code at your own risk. Author is not responsible for errors in th
 
 ## License
 
-Any publication using the following code or in anyway has related to the project has to cite the above mentioned publication.
+Refer LICENSE.md file
