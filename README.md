@@ -2,6 +2,12 @@
 Fully automatic Common Carotid Artery ultrasound image segmentation using Wind Driven Optimization technique
 =============
 
+### Author
+Pardhu M
+
+### Contact
+pardhu1212@gmail.com
+
 ## Code Details
 
 - Image denoising and enhancement codes are not attached. 
